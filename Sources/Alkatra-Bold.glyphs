@@ -24829,7 +24829,7 @@ rightKerningGroup = VowelA.bn;
 },
 {
 glyphname = KaSsaRa.bn;
-lastChange = "2020-01-20 14:04:55 +0000";
+lastChange = "2020-01-21 14:46:25 +0000";
 layers = (
 {
 background = {
@@ -25314,7 +25314,7 @@ nodes = (
 "647 220 CURVE SMOOTH",
 "647 166 OFFCURVE",
 "695 75 OFFCURVE",
-"739.81 75.58 CURVE SMOOTH"
+"740 76 CURVE SMOOTH"
 );
 },
 {
