@@ -2,7 +2,8 @@
 .appVersion = "1342";
 DisplayStrings = (
 "Once/space Upon/space a/space Timmme/space There/space lived/space an/space Arsehole/space whose/space Entire/space Life/space was/space Surrounded/space By/space similar/space arseholes",
-"ADHESIDOMN\012BPRD/space COQGS/space EFLHJITU/space KYVXZW"
+"ADHESIDOMN\012BPRD/space COQGS/space EFLHJITU/space KYVXZW",
+abcdefghijklmnopqrstuvwxyz
 );
 customParameters = (
 {
@@ -1185,6 +1186,10 @@ Name = Width;
 Tag = wdth;
 }
 );
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
 }
 );
 date = "2020-01-07 22:21:28 +0000";
@@ -8994,7 +8999,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2021-01-28 10:45:46 +0000";
+lastChange = "2021-03-04 09:51:30 +0000";
 layers = (
 {
 background = {
