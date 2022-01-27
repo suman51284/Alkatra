@@ -1,14 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/a-deva/aa-deva/i-deva/ii-deva/u-deva/uu-deva/rVocalic-deva/rrVocalic-deva/e-deva/ai-deva/o-deva/au-deva/aaMatra-deva/iMatra-deva/iiMatra-deva/oMatra-deva/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva/rra-deva/la-deva/lla-deva/va-deva/sha-deva/ssa-deva/sa-deva/ha-deva/k_ka-deva/k_kha-deva/k_ca-deva/k_ja-deva/k_tta-deva/k_nna-deva/k_ta-deva/k_t-deva/k_t_ta-deva/k_t_ya-deva/k_t_ra-deva/k_t_va-deva/k_tha-deva/k_da-deva/k_na-deva/k_pa-deva/k_p_ra-deva/k_pha-deva/k_ba-deva/k_ma-deva/k_ya-deva/k_ra-deva/k_la-deva/k_va-deva/k_v_ya-deva/k_sha-deva/k_ssa-deva/k_ss-deva/k_ss_ma-deva/k_ss_ya-deva/k_ss_ra-deva/k_ss_va-deva/k_sa-deva/k_s_tta-deva/k_s_dda-deva/k_s_ta-deva/k_s_pa-deva/k_s_p_ra-deva/k_s_p_la-deva/kh_kha-deva/kh_ta-deva/kh_na-deva/kh_ma-deva/kh_ya-deva/kh_ra-deva/kh_va-deva/kh_sha-deva/kh_sa-deva/g_ga-deva/g_gha-deva/g_ja-deva/g_nna-deva/g_da-deva/g_dha-deva/g_dh_ya-deva/g_dh_va-deva/g_na-deva/g_n_ya-deva/g_ba-deva/g_bha-deva/g_bh_ya-deva/g_ma-deva/g_ya-deva/g_ra-deva/g_la-deva/g_va-deva/g_sa-deva/gh_na-deva/gh_ma-deva/gh_ya-deva/gh_ra-deva/ng_ka-deva/ng_k_t_ta-deva/ng_k_ra-deva/ng_k_ssa-deva/ng_kha-deva/ng_ga-deva/ng_g_ra-deva/ng_gha-deva/ng_gh_ra-deva/ng_ma-deva/ng_ya-deva/c_ca-deva/c_cha-deva/c_ch_va-deva/c_na-deva/c_ma-deva/c_ya-deva/c_ra-deva/ch_na-deva/ch_ya-deva/ch_va-deva/j_ka-deva/j_ja-deva/j_j_nya-deva/j_j_ya-deva/j_j_va-deva/j_jha-deva/j_nya-deva/j_ny-deva/j_ny_ya-deva/j_tta-deva/j_dda-deva/j_ta-deva/j_da-deva/j_na-deva/j_ba-deva/j_ma-deva/j_ya-deva/j_ra-deva/j_va-deva/jh_na-deva/jh_ma-deva/jh_ya-deva/jh_ra-deva/ny_ca-deva/ny_c_ya-deva/ny_cha-deva/ny_ja-deva/ny_j_ya-deva/ny_ra-deva/ny_sha-deva/tt_tta-deva/tt_tt_ya-deva/tt_ttha-deva/tt_ddha-deva/tt_ya-deva/tt_va-deva/tth_ttha-deva/tth_tth_ya-deva/tth_ya-deva/dd_gha-deva/dd_tta-deva/dd_dda-deva/dd_dd_ya-deva/dd_ddha-deva/dd_ya-deva/ddh_ddha-deva/ddh_ddh_ya-deva/ddh_ya-deva/nn_tta-deva/nn_ttha-deva/nn_dda-deva/nn_ddha-deva/nn_nna-deva/nn_ma-deva/nn_ya-deva/nn_ra-deva/nn_va-deva/t_ka-deva/t_k_ya-deva/t_k_ra-deva/t_k_va-deva/t_k_ssa-deva/t_kha-deva/t_kh_na-deva/t_kh_ra-deva/t_ta-deva/t_t-deva/t_t_ya-deva/t_t_va-deva/t_tha-deva/t_na-deva/t_n_ya-deva/t_pa-deva/t_p_ra-deva/t_p_la-deva/t_pha-deva/t_ma-deva/t_m_ya-deva/t_ya-deva/t_ra-deva/t_la-deva/t_va-deva/t_sa-deva/t_s_na-deva/t_s_ya-deva/t_s_va-deva/th_na-deva/th_ya-deva/th_ra-deva/th_va-deva/d_ga-deva/d_g_ra-deva/d_gha-deva/d_da-deva/d_d_ya-deva/d_dha-deva/d_dh_ya-deva/d_na-deva/d_ba-deva/d_b_ra-deva/d_bha-deva/d_bh_ya-deva/d_ma-deva/d_ya-deva/d_ra-deva/d_va-deva/d_v_ya-deva/d_v_ra-deva/dh_na-deva/dh_n_ya-deva/dh_ma-deva/dh_ya-deva/dh_ra-deva/dh_va-deva/n_ka-deva/n_k_sa-deva/n_ca-deva/n_tta-deva/n_dda-deva/n_ta-deva/n_t_ya-deva/n_t_ra-deva/n_t_sa-deva/n_tha-deva/n_th_ya-deva/n_th_va-deva/n_da-deva/n_d_ra-deva/n_d_va-deva/n_dha-deva/n_dh_ya-deva/n_dh_ra-deva/n_dh_va-deva/n_na-deva/n_n_ya-deva/n_pa-deva/n_p_ra-deva/n_pha-deva/n_bha-deva/n_ma-deva/n_m_ya-deva/n_ya-deva/n_va-deva/n_v_ha-deva/n_sa-deva/n_s_tta-deva/n_ha-deva/n_h_ya-deva/p_tta-deva/p_ta-deva/p_t_ya-deva/p_na-deva/p_pa-deva/p_pha-deva/p_ma-deva/p_ya-deva/p_ra-deva/p_la-deva/p_va-deva/p_sa-deva/ph_ja-deva/ph_tta-deva/ph_ta-deva/ph_na-deva/ph_pa-deva/ph_pha-deva/ph_ya-deva/ph_ra-deva/ph_la-deva/ph_sha-deva/ph_sa-deva/b_ja-deva/b_j_ya-deva/b_jha-deva/b_tta-deva/b_dda-deva/b_ta-deva/b_da-deva/b_dha-deva/b_dh_va-deva/b_na-deva/b_ba-deva/b_bha-deva/b_bh_ra-deva/b_ya-deva/b_ra-deva/b_la-deva/b_l_ya-deva/b_va-deva/b_sha-deva/b_sa-deva/b_za-deva/bh_na-deva/bh_ya-deva/bh_ra-deva/bh_va-deva/m_ta-deva/m_da-deva/m_na-deva/m_pa-deva/m_p_ra-deva/m_ba-deva/m_b_ya-deva/m_b_ra-deva/m_bha-deva/m_bh_ra-deva/m_ma-deva/m_ya-deva/m_ra-deva/m_la-deva/m_va-deva/m_sha-deva/m_sa-deva/m_ha-deva/y_na-deva/y_ya-deva/y_ra-deva/l_ka-deva/l_k_ya-deva/l_kha-deva/l_ga-deva/l_ja-deva/l_tta-deva/l_ttha-deva/l_dda-deva/l_ddha-deva/l_ta-deva/l_tha-deva/l_th_ya-deva/l_da-deva/l_d_ra-deva/l_pa-deva/l_pha-deva/l_ba-deva/l_bha-deva/l_ma-deva/l_ya-deva/l_ra-deva/l_la-deva/l_l_ya-deva/l_va-deva/l_v_dda-deva/l_sa-deva/l_ha-deva/l_h_ya-deva/l_za-deva/ll_ya-deva/v_dda-deva/v_na-deva/v_ya-deva/v_ra-deva/v_la-deva/v_va-deva/v_ha-deva/sh_ka-deva/sh_ca-deva/sh_cha-deva/sh_tta-deva/sh_ta-deva/sh_na-deva/sh_ma-deva/sh_ya-deva/sh_ra-deva/sh_la-deva/sh_va-deva/sh_sha-deva/ss_ka-deva/ss_k_ra-deva/ss_tta-deva/ss_tt_ya-deva/ss_tt_va-deva/ss_tt_rakar-deva/ss_ttha-deva/ss_tth_ya-deva/ss_nna-deva/ss_nn_ya-deva/ss_pa-deva/ss_p_ra-deva/ss_pha-deva/ss_ma-deva/ss_m_ya-deva/ss_ya-deva/ss_ra-deva/ss_va-deva/ss_ssa-deva/s_ka-deva/s_k_ra-deva/s_k_va-deva/s_kha-deva/s_ja-deva/s_tta-deva/s_ta-deva/s_t_ya-deva/s_t_ra-deva/s_t_va-deva/s_tha-deva/s_th_ya-deva/s_da-deva/s_na-deva/s_pa-deva/s_p_ra-deva/s_pha-deva/s_ba-deva/s_ma-deva/s_m_ya-deva/s_ya-deva/s_ra-deva/s_la-deva/s_va-deva/s_sa-deva/h_nna-deva/h_na-deva/h_ma-deva/h_m_ya-deva/h_ya-deva/h_ra-deva/h_ra-deva.001/h_la-deva/h_va-deva/q_ta-deva/q_pha-deva/q_ba-deva/q_ma-deva/q_ra-deva/q_qa-deva/q_fa-deva/khh_ta-deva/khh_ma-deva/khh_ya-deva/khh_ra-deva/khh_va-deva/khh_sha-deva/khh_sa-deva/ghh_ra-deva/z_ya-deva/z_ra-deva/z_za-deva/f_ta-deva/f_ra-deva/f_sa-deva/f_za-deva/f_fa-deva/yy_ra-deva/n_d_ra-deva.001/uMatra-deva/uuMatra-deva/rVocalicMatra-deva/rrVocalicMatra-deva/lVocalicMatra-deva/llVocalicMatra-deva/halant-deva",
-"!\"#%&'()*+,-.//:;<=>?@[/backslash ]^_{|}~¡¦§©¬®°±¶·¼½¾¿×÷/endash/emdash/quoteleft/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase/dagger/daggerdbl/bullet/ellipsis/perthousand/guilsinglleft/guilsinglright/fraction/trademark/minus/approxequal/notequal/lessequal/greaterequal/rupee/dottedCircle",
-"/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva/rra-deva/la-deva/lla-deva/va-deva/sha-deva/ssa-deva/sa-deva/ha-deva \012\012/k-deva/kh-deva/g-deva/gh-deva/ng-deva/c-deva/ch-deva/j-deva/jh-deva/ny-deva/tt-deva/tth-deva/dd-deva/ddh-deva/nn-deva/t-deva/th-deva/da_rVocalicMatra-deva/dh-deva/n-deva/p-deva/ph-deva/b-deva/bh-deva/m-deva/y-deva/ra_uMatra-deva/ra_uuMatra-deva/rr-deva/l-deva/ll-deva/v-deva/sh-deva/ss-deva/s-deva/h-deva",
-"/uMatra-deva/uuMatra-deva/rVocalicMatra-deva/rrVocalicMatra-deva/lVocalicMatra-deva/llVocalicMatra-deva/eCandraMatra-deva/candraBindu-deva/invertedCandraBindu-deva/eMatra-deva/eMatra_anusvara-deva/eMatra_reph-deva/eMatra_reph_anusvara-deva/aiMatra-deva/aiMatra_anusvara-deva/aiMatra_reph-deva/aiMatra_reph_anusvara-deva/anusvara-deva/visarga-deva/halant-deva/nukta-deva/reph-deva/reph_anusvara-deva/rakar-deva/rakar_uMatra-deva/rakar_uuMatra-deva/grave-deva/acute-deva",
-"/iMatra-deva/iMatra_reph-deva/iMatra_reph_anusvara-deva/iiMatra-deva/iiMatra_reph-deva/iiMatra_reph_anusvara-deva/oCandraMatra-deva/oMatra-deva/oMatra_reph-deva/oMatra_reph_anusvara-deva/auMatra-deva/auMatra_reph-deva/auMatra_reph_anusvara-deva",
-"/ka-deva",
-"/ch_va-deva",
-"/anusvara-deva"
+"/dbldanda-deva"
 );
 customParameters = (
 {
@@ -219797,6 +219790,188 @@ width = 213.83333;
 }
 );
 unicode = 0027;
+},
+{
+glyphname = "danda-deva";
+lastChange = "2022-01-27 18:39:06 +0000";
+layers = (
+{
+layerId = "B0B60A8F-2DEB-4A58-A43B-60A0DADABD8F";
+paths = (
+{
+closed = 1;
+nodes = (
+"171 630 LINE",
+"158 630 OFFCURVE",
+"155 625 OFFCURVE",
+"153 608 CURVE SMOOTH",
+"145 530 OFFCURVE",
+"101 87 OFFCURVE",
+"96 46 CURVE SMOOTH",
+"91 10 OFFCURVE",
+"81 -31 OFFCURVE",
+"108 -31 CURVE SMOOTH",
+"154 -31 OFFCURVE",
+"219 98 OFFCURVE",
+"223 164 CURVE SMOOTH",
+"233 315 OFFCURVE",
+"262 567 OFFCURVE",
+"266 613 CURVE SMOOTH",
+"267 626 OFFCURVE",
+"261 630 OFFCURVE",
+"250 630 CURVE"
+);
+}
+);
+width = 356;
+},
+{
+layerId = "C23C635F-568C-40B7-8839-28DDBF9C11D0";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 644 LINE",
+"165 644 OFFCURVE",
+"155 639 OFFCURVE",
+"153 625 CURVE SMOOTH",
+"139 498 OFFCURVE",
+"111 154 OFFCURVE",
+"96 42 CURVE SMOOTH",
+"91 6 OFFCURVE",
+"79 -41 OFFCURVE",
+"115 -41 CURVE SMOOTH",
+"176 -41 OFFCURVE",
+"240 75 OFFCURVE",
+"245 154 CURVE SMOOTH",
+"257 338 OFFCURVE",
+"284 553 OFFCURVE",
+"292 622 CURVE SMOOTH",
+"293 634 OFFCURVE",
+"290 644 OFFCURVE",
+"271 644 CURVE"
+);
+}
+);
+width = 382;
+}
+);
+unicode = 0964;
+},
+{
+glyphname = "dbldanda-deva";
+lastChange = "2022-01-27 18:40:55 +0000";
+layers = (
+{
+layerId = "B0B60A8F-2DEB-4A58-A43B-60A0DADABD8F";
+paths = (
+{
+closed = 1;
+nodes = (
+"171 630 LINE",
+"158 630 OFFCURVE",
+"155 625 OFFCURVE",
+"153 608 CURVE SMOOTH",
+"145 530 OFFCURVE",
+"101 87 OFFCURVE",
+"96 46 CURVE SMOOTH",
+"91 10 OFFCURVE",
+"81 -31 OFFCURVE",
+"108 -31 CURVE SMOOTH",
+"154 -31 OFFCURVE",
+"219 98 OFFCURVE",
+"223 164 CURVE SMOOTH",
+"233 315 OFFCURVE",
+"262 567 OFFCURVE",
+"266 613 CURVE SMOOTH",
+"267 626 OFFCURVE",
+"261 630 OFFCURVE",
+"250 630 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"421 630 LINE",
+"408 630 OFFCURVE",
+"405 625 OFFCURVE",
+"403 608 CURVE SMOOTH",
+"395 530 OFFCURVE",
+"351 87 OFFCURVE",
+"346 46 CURVE SMOOTH",
+"341 10 OFFCURVE",
+"331 -31 OFFCURVE",
+"358 -31 CURVE SMOOTH",
+"404 -31 OFFCURVE",
+"469 98 OFFCURVE",
+"473 164 CURVE SMOOTH",
+"483 315 OFFCURVE",
+"512 567 OFFCURVE",
+"516 613 CURVE SMOOTH",
+"517 626 OFFCURVE",
+"511 630 OFFCURVE",
+"500 630 CURVE"
+);
+}
+);
+width = 606;
+},
+{
+layerId = "C23C635F-568C-40B7-8839-28DDBF9C11D0";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 644 LINE",
+"164 644 OFFCURVE",
+"155 640 OFFCURVE",
+"153 625 CURVE SMOOTH",
+"139 498 OFFCURVE",
+"111 154 OFFCURVE",
+"96 42 CURVE SMOOTH",
+"91 6 OFFCURVE",
+"79 -41 OFFCURVE",
+"114 -41 CURVE SMOOTH",
+"176 -41 OFFCURVE",
+"240 75 OFFCURVE",
+"245 154 CURVE SMOOTH",
+"257 338 OFFCURVE",
+"284 553 OFFCURVE",
+"292 622 CURVE SMOOTH",
+"293 634 OFFCURVE",
+"289 644 OFFCURVE",
+"271 644 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"427 644 LINE",
+"414 644 OFFCURVE",
+"405 640 OFFCURVE",
+"403 625 CURVE SMOOTH",
+"389 498 OFFCURVE",
+"361 154 OFFCURVE",
+"346 42 CURVE SMOOTH",
+"341 6 OFFCURVE",
+"329 -41 OFFCURVE",
+"364 -41 CURVE SMOOTH",
+"426 -41 OFFCURVE",
+"490 75 OFFCURVE",
+"495 154 CURVE SMOOTH",
+"507 338 OFFCURVE",
+"534 553 OFFCURVE",
+"542 622 CURVE SMOOTH",
+"543 634 OFFCURVE",
+"539 644 OFFCURVE",
+"521 644 CURVE"
+);
+}
+);
+width = 632;
+}
+);
+unicode = 0965;
 },
 {
 glyphname = space;

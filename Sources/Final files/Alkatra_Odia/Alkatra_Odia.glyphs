@@ -2,7 +2,9 @@
 .appVersion = "1342";
 DisplayStrings = (
 "/a-oriya/aa-oriya/i-oriya/ii-oriya/u-oriya/uu-oriya/rVocalic-oriya/rrVocalic-oriya/lVocalic-oriya/llVocalic-oriya/e-oriya/aiVowel-oriya/oVowel-oriya/auVowel-oriya/ka-oriya/kha-oriya/ga-oriya/gha-oriya/nga-oriya/ca-oriya/cha-oriya/ja-oriya/jha-oriya/nya-oriya/tta-oriya/ttha-oriya/dda-oriya/ddha-oriya/nna-oriya/ta.-oriya/tha-oriya/da-oriya/dha-oriya/na-oriya/pa-oriya/pha-oriya/ba-oriya/bha-oriya/ma-oriya/ya-oriya/ra-oriya/la-oriya/lla-oriya/va-oriya/sha-oriya/ssa-oriya/sa-oriya/ha-oriya/rra-oriya/rha-oriya/wa-oriya/yya-oriya/k_ka-oriya/k_ca-oriya/k_tta-oriya/k_ta-oriya/k_t_ra-oriya/k_ba-oriya/k_ma-oriya/k_ra-oriya/k_lla-oriya/k_ssa-oriya/k_ss_nna-oriya/k_ss_ma-oriya/k_ss_ra-oriya/k_sa-oriya/kh_ra-oriya/kh_lla-oriya/g_da-oriya/g_dha-oriya/g_na-oriya/g_ra-oriya/g_la-oriya/g_lla-oriya/gh_na-oriya/gh_ra-oriya/ng_ka-oriya/ng_k_ta-oriya/ng_k_ssa-oriya/ng_kha-oriya/ng_ga-oriya/ng_gha-oriya/ng_ra-oriya/c_ca-oriya/c_cha-oriya/c_ra-oriya/ch_ra-oriya/j_ja-oriya/j_j_ba-oriya/j_jha-oriya/j_nya-oriya/j_ba-oriya/j_ra-oriya/jh_ra-oriya/ny_ca-oriya/ny_cha-oriya/ny_ja-oriya/ny_jha-oriya/ny_ra-oriya/tt_tta-oriya/tt_ra-oriya/tth_ra-oriya/dd_ga-oriya/dd_dda-oriya/dd_ra-oriya/ddh_ra-oriya/nn_tta-oriya/nn_ttha-oriya/nn_dda-oriya/nn_dd_ra-oriya/nn_ddha-oriya/nn_nna-oriya/nn_ra-oriya/t_ka-oriya/t_k_ssa-oriya/t_ta-oriya/t_t_ba-oriya/t_t_ra-oriya/t_tha-oriya/t_na-oriya/t_pa-oriya/t_ba-oriya/t_ma-oriya/t_ra-oriya/t_sa-oriya/t_s_na-oriya/th_ra-oriya/d_ga-oriya/d_gha-oriya/d_da-oriya/d_dha-oriya/d_dh_ba-oriya/d_ba-oriya/d_bha-oriya/d_ya-oriya/d_ra-oriya/dh_ba-oriya/dh_ra-oriya/dh_yya-oriya/n_ta-oriya/n_t_ba-oriya/n_t_ra-oriya/n_tha-oriya/n_da-oriya/n_d_ba-oriya/n_d_ra-oriya/n_dha-oriya/n_dh_ba-oriya/n_dh_ra-oriya/n_na-oriya/n_ba-oriya/n_ra-oriya/n_sa-oriya/p_ta-oriya/p_pa-oriya/p_ra-oriya/p_lla-oriya/p_sa-oriya/ph_ra-oriya/b_ja-oriya/b_da-oriya/b_dha-oriya/b_ba-oriya/b_ra-oriya/b_la-oriya/b_lla-oriya/bh_ra-oriya/m_pa-oriya/m_p_ra-oriya/m_pha-oriya/m_ba-oriya/m_bha-oriya/m_ma-oriya/m_ra-oriya/m_lla-oriya/y_ra-oriya/r_ra-oriya/l_ka-oriya/l_ga-oriya/l_ra-oriya/l_la-oriya/ll_ka-oriya/ll_pa-oriya/ll_pha-oriya/ll_bha-oriya/ll_ra-oriya/ll_lla-oriya/v_ra-oriya/sh_ca-oriya/sh_cha-oriya/sh_tta-oriya/sh_tt_ra-oriya/sh_na-oriya/sh_ba-oriya/sh_ra-oriya/sh_la-oriya/sh_lla-oriya/ss_ka-oriya/ss_k_ra-oriya/ss_tta-oriya/ss_tt_ra-oriya/ss_ttha-oriya/ss_nna-oriya/ss_pa-oriya/ss_pha-oriya/ss_ra-oriya/s_ka-oriya/s_k_ra-oriya/s_kha-oriya/s_tta-oriya/s_tt_ra-oriya/s_ta-oriya/s_t_ra-oriya/s_na-oriya/s_pa-oriya/s_pha-oriya/s_ba-oriya/s_ma-oriya/s_ra-oriya/s_la-oriya/s_lla-oriya/h_na-oriya/h_ma-oriya/h_ra-oriya/h_la-oriya/rr_ra-oriya/rh_ra-oriya/yy_ra-oriya",
-""
+"",
+"/space",
+"/ja-oriya"
 );
 customParameters = (
 {
@@ -7276,7 +7278,7 @@ unicode = 0B1B;
 },
 {
 glyphname = "ja-oriya";
-lastChange = "2022-01-27 13:05:10 +0000";
+lastChange = "2022-01-27 18:31:57 +0000";
 layers = (
 {
 anchors = (
@@ -7525,6 +7527,24 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"374 -5 OFFCURVE",
+"464 58 OFFCURVE",
+"463 140 CURVE SMOOTH",
+"462 188 OFFCURVE",
+"436 216 OFFCURVE",
+"426 224 CURVE SMOOTH",
+"436 241 OFFCURVE",
+"487 255 OFFCURVE",
+"507 255 CURVE SMOOTH",
+"526 255 OFFCURVE",
+"526 243 OFFCURVE",
+"524 218 CURVE SMOOTH",
+"518 174 OFFCURVE",
+"507 97 OFFCURVE",
+"503 67 CURVE SMOOTH",
+"498 29 OFFCURVE",
+"493 -14 OFFCURVE",
+"520 -14 CURVE SMOOTH",
 "557 -14 OFFCURVE",
 "610 50 OFFCURVE",
 "618 112 CURVE SMOOTH",
@@ -7557,25 +7577,7 @@ nodes = (
 "54 126 CURVE SMOOTH",
 "54 64 OFFCURVE",
 "103 -5 OFFCURVE",
-"240 -5 CURVE SMOOTH",
-"374 -5 OFFCURVE",
-"464 58 OFFCURVE",
-"463 140 CURVE SMOOTH",
-"462 188 OFFCURVE",
-"436 216 OFFCURVE",
-"426 224 CURVE SMOOTH",
-"436 241 OFFCURVE",
-"487 255 OFFCURVE",
-"507 255 CURVE SMOOTH",
-"526 255 OFFCURVE",
-"526 243 OFFCURVE",
-"524 218 CURVE SMOOTH",
-"518 174 OFFCURVE",
-"507 97 OFFCURVE",
-"503 67 CURVE SMOOTH",
-"498 29 OFFCURVE",
-"493 -14 OFFCURVE",
-"520 -14 CURVE SMOOTH"
+"240 -5 CURVE SMOOTH"
 );
 }
 );
@@ -105375,7 +105377,7 @@ unicode = 0027;
 },
 {
 glyphname = space;
-lastChange = "2022-01-18 17:15:45 +0000";
+lastChange = "2022-01-27 18:28:37 +0000";
 layers = (
 {
 layerId = "555B79C6-6D98-46E7-9307-77C37975E414";
@@ -105383,7 +105385,7 @@ width = 250;
 },
 {
 layerId = "08AC27E4-54F0-4C9D-B904-08FC42541096";
-width = 594.2623;
+width = 250;
 }
 );
 note = space;
