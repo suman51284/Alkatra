@@ -1,7 +1,11 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-"/Doubledanda.bn"
+classes = (
+{
+automatic = 1;
+code = "VowelA.bn VowelAa.bn VowelI.bn VowelIi.bn VowelU.bn VowelUu.bn VowelRu.bn VowelLru.bn VowelE.bn VowelAi.bn VowelO.bn VowelAu.bn Ka.bn Kha.bn Ga.bn Gha.bn Nga.bn Ca.bn Cha.bn Ja.bn Jha.bn Nya.bn Tta.bn Ttha.bn Dda.bn Ddha.bn Nna.bn Ta.bn Tha.bn Da.bn Dha.bn Na.bn Pa.bn Pha.bn Ba.bn Bha.bn Ma.bn Ya.bn Ra.bn La.bn Sha.bn Ssa.bn Sa.bn Ha.bn Avagraha.bn KhandaTa.bn Rra.bn Rha.bn Yya.bn VowelRuu.bn VowelLruu.bn Ra.as Wa.as fraction onehalf onequarter threequarters uni09F7 Zero.bn One.bn Two.bn Three.bn Four.bn Five.bn Six.bn Seven.bn Eight.bn Nine.bn period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash parenleft parenright braceleft braceright bracketleft bracketright hyphen endash emdash underscore quotedblleft quotedblright quoteleft quoteright guilsinglleft guilsinglright quotedbl quotesingle Danda.bn Doubledanda.bn space CR rupee plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum percent perthousand uni25CC at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl Isshar.bn Candrabindu.bn Anuswara.bn Visarga.bn Nukta.bn SignAa.bn SignI.bn SignIi.bn SignU.bn SignUu.bn SignRu.bn SignRuu.bn SignE.bn SignAi.bn SignO.bn SignAu.bn Hasant.bn SignAuMark.bn SignLru.bn SignLruu.bn NULL BaBa.bn BaBha.bn BaDa.bn BaDaRa.bn BaDda.bn BaDdha.bn BaDha.bn BaHalf.bn BaHasant.bn BaJa.bn BaJha.bn BaLa.bn BaRa.bn BhaHalf.bn BhaHasant.bn BhaLa.bn BhaRa.bn CaBa.bn CaCa.bn CaCha.bn CaChaBa.bn CaChaRa.bn CaHalf.bn CaHasant.bn CaNa.bn CaNya.bn CaRa.bn ChaBa.bn ChaHalf.bn ChaHasant.bn ChaRa.bn DaBa.bn DaBha.bn DaBhaRa.bn DaDa.bn DaDaBa.bn DaDaRa.bn DaDha.bn DaDhaBa.bn DaGa.bn DaGha.bn DaHalf.bn DaHasant.bn DaMa.bn DaNa.bn DaRa.bn DdaBa.bn DdaDda.bn DdaGa.bn DdaHalf.bn DdaHasant.bn DdaMa.bn DdaRa.bn DdhaHalf.bn DdhaHasant.bn DdhaRa.bn DhaBa.bn DhaHalf.bn DhaHasant.bn DhaMa.bn DhaNa.bn DhaRa.bn GaBa.bn GaDa.bn GaDha.bn GaDhaBa.bn GaDhaRa.bn GaGa.bn GaHalf.bn GaHasant.bn GaLa.bn GaMa.bn GaNa.bn GaNna.bn GaRa.bn GaSignU.bn GhaBa.bn GhaHalf.bn GhaHasant.bn GhaNa.bn GhaRa.bn HaBa.bn HaHalf.bn HaHasant.bn HaLa.bn HaMa.bn HaNa.bn HaNna.bn HaRa.bn HaSignRu.bn HaSignU.bn JaBa.bn JaHalf.bn JaHasant.bn JaJa.bn JaJaBa.bn JaJha.bn JaNya.bn JaRa.bn JhaHalf.bn JhaHasant.bn JhaRa.bn KaBa.bn KaHalf.bn KaHasant.bn KaKa.bn KaLa.bn KaMa.bn KaNa.bn KaRa.bn KaSa.bn KaSsa.bn KaSsaBa.bn KaSsaHalf.bn KaSsaHasant.bn KaSsaMa.bn KaSsaNna.bn KaSsaRa.bn KaTa.bn KaTaBa.bn KaTaRa.bn KaTta.bn KaTtaRa.bn KhaBa.bn KhaHalf.bn KhaHasant.bn KhaRa.bn LaBa.bn LaDa.bn LaDda.bn LaDdaRa.bn LaDdha.bn LaDha.bn LaGa.bn LaGaSignU.bn LaGha.bn LaHalf.bn LaHasant.bn LaKa.bn LaLa.bn LaMa.bn LaPa.bn LaPha.bn LaPhaRa.bn LaRa.bn LaTta.bn LaTtaRa.bn MaBa.bn MaBaRa.bn MaBha.bn MaBhaRa.bn MaDa.bn MaHalf.bn MaHasant.bn MaLa.bn MaMa.bn MaNa.bn MaPa.bn MaPaRa.bn MaPha.bn MaPhaRa.bn MaRa.bn MaTa.bn NaBa.bn NaDa.bn NaDaBa.bn NaDaRa.bn NaDda.bn NaDdaRa.bn NaDha.bn NaDhaBa.bn NaDhaRa.bn NaHalf.bn NaHasant.bn NaMa.bn NaNa.bn NaRa.bn NaSa.bn NaSaTta.bn NaTa.bn NaTaBa.bn NaTaRa.bn NaTaSignU.bn NaTha.bn NaThaRa.bn NaTta.bn NaTtaRa.bn NaTtha.bn NaTthaSignIi.bn NgaGa.bn NgaGha.bn NgaGhaRa.bn NgaHalf.bn NgaHasant.bn NgaKa.bn NgaKaRa.bn NgaKaSsa.bn NgaKaSsaRa.bn NgaKha.bn NgaMa.bn NgaRa.bn NnaBa.bn NnaDda.bn NnaDdaRa.bn NnaDdha.bn NnaDdhaRa.bn NnaHalf.bn NnaHasant.bn NnaMa.bn NnaNa.bn NnaNna.bn NnaRa.bn NnaTta.bn NnaTtaRa.bn NnaTtha.bn NnaTthaRa.bn NnaTthaRaSignIi.bn NyaCa.bn NyaCaBa.bn NyaCha.bn NyaHalf.bn NyaHasant.bn NyaJa.bn NyaJha.bn PaHalf.bn PaHasant.bn PaLa.bn PaMa.bn PaNa.bn PaPa.bn PaRa.bn PaSa.bn PaTa.bn PaTaRa.bn PaTaSignU.bn PaTta.bn PhaHalf.bn PhaHasant.bn PhaLa.bn PhaRa.bn PhaTta.bn RaHasant.as RaHasant.bn Raphala.bn Reph.bn RephCandrabindu.bn RhaHalf.bn RhaHasant.bn RhaRa.bn RraGa.bn RraHasant.bn RraRa.bn SaBa.bn SaHalf.bn SaHasant.bn SaKa.bn SaKaRa.bn SaKha.bn SaLa.bn SaMa.bn SaNa.bn SaPa.bn SaPaLa.bn SaPaRa.bn SaPha.bn SaRa.bn SaTa.bn SaTaBa.bn SaTaRa.bn SaTaSignU.bn SaTha.bn SaTta.bn SaTtaRa.bn ShaBa.bn ShaCa.bn ShaCha.bn ShaHalf.bn ShaHasant.bn ShaLa.bn ShaMa.bn ShaNa.bn ShaRa.bn ShaRaSignIi.bn ShaSignU.bn ShaTa.bn SignICandrabindu.bn SignI_reph.bn SignIiReph.bn SignIiRephCandrabindu.bn SignIi_Tta1.bn SignIi_Tta1_Reph.bn SsaBa.bn SsaHalf.bn SsaHasant.bn SsaKa.bn SsaKaRa.bn SsaMa.bn SsaNna.bn SsaPa.bn SsaPaRa.bn SsaPha.bn SsaRa.bn SsaTta.bn SsaTtaRa.bn SsaTtha.bn SsaTthaSignIi.bn TaBa.bn TaHalf.bn TaHasant.bn TaLa.bn TaMa.bn TaNa.bn TaRa.bn TaTa.bn TaTaBa.bn TaTaRa.bn TaTha.bn ThaBa.bn ThaHalf.bn ThaHasant.bn ThaRa.bn TtaBa.bn TtaHalf.bn TtaHasant.bn TtaMa.bn TtaRa.bn TtaSignI.bn TtaSignICandrabindu.bn TtaSignIReph.bn TtaTta.bn TtaTtaRa.bn TthaHalf.bn TthaHasant.bn TthaRa.bn TthaRaSignIi.bn TthaSignI.bn TthaSignICandrabindu.bn TthaSignIReph.bn TthaSignIi.bn WaHalf.as WaHasant.as WaRa.as YaHalf.bn YaHasant.bn YaRa.bn Yaphala.bn YyaHalf.bn YyaHasant.bn YyaRa.bn SignAi.ini.bn SignE.ini.bn SignU.side.bn SignUu.side.bn";
+name = All;
+}
 );
 customParameters = (
 {
@@ -82,6 +86,19 @@ designer = "Suman Bhandary";
 designerURL = "http://reg-it-bold.com/";
 disablesNiceNames = 1;
 familyName = Alkatra;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+code = "";
+name = xxxx;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -35870,21 +35887,6 @@ width = 370;
 );
 note = SignLruu.bn;
 unicode = 09E3;
-},
-{
-glyphname = NULL;
-lastChange = "2022-01-18 14:03:00 +0000";
-layers = (
-{
-layerId = "EC1E6058-8D86-4671-8808-9A08B2A725FC";
-width = 600;
-},
-{
-layerId = "959F729E-ED2F-45C2-951D-81A6BBE10EFE";
-width = 50;
-}
-);
-note = NULL;
 },
 {
 glyphname = BaBa.bn;
