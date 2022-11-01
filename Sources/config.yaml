@@ -1,0 +1,7 @@
+sources:
+  - Alkatra.glyphs
+buildStatic: false
+buildVariable: true
+buildTTF: true
+buildOTF: false
+buildWebfont: false
